@@ -1,0 +1,11 @@
+/home/beny/Documents/SystemUSA/Practices/bin/Debug/netcoreapp3.1/Practices
+/home/beny/Documents/SystemUSA/Practices/bin/Debug/netcoreapp3.1/Practices.deps.json
+/home/beny/Documents/SystemUSA/Practices/bin/Debug/netcoreapp3.1/Practices.runtimeconfig.json
+/home/beny/Documents/SystemUSA/Practices/bin/Debug/netcoreapp3.1/Practices.runtimeconfig.dev.json
+/home/beny/Documents/SystemUSA/Practices/bin/Debug/netcoreapp3.1/Practices.dll
+/home/beny/Documents/SystemUSA/Practices/bin/Debug/netcoreapp3.1/Practices.pdb
+/home/beny/Documents/SystemUSA/Practices/obj/Debug/netcoreapp3.1/Practices.csprojAssemblyReference.cache
+/home/beny/Documents/SystemUSA/Practices/obj/Debug/netcoreapp3.1/Practices.AssemblyInfoInputs.cache
+/home/beny/Documents/SystemUSA/Practices/obj/Debug/netcoreapp3.1/Practices.AssemblyInfo.cs
+/home/beny/Documents/SystemUSA/Practices/obj/Debug/netcoreapp3.1/Practices.dll
+/home/beny/Documents/SystemUSA/Practices/obj/Debug/netcoreapp3.1/Practices.pdb

@@ -1,0 +1,13 @@
+/home/beny/Documents/SystemUSA/Pruebas/bin/Debug/netcoreapp3.1/Pruebas
+/home/beny/Documents/SystemUSA/Pruebas/bin/Debug/netcoreapp3.1/Pruebas.deps.json
+/home/beny/Documents/SystemUSA/Pruebas/bin/Debug/netcoreapp3.1/Pruebas.runtimeconfig.json
+/home/beny/Documents/SystemUSA/Pruebas/bin/Debug/netcoreapp3.1/Pruebas.runtimeconfig.dev.json
+/home/beny/Documents/SystemUSA/Pruebas/bin/Debug/netcoreapp3.1/Pruebas.dll
+/home/beny/Documents/SystemUSA/Pruebas/bin/Debug/netcoreapp3.1/Pruebas.pdb
+/home/beny/Documents/SystemUSA/Pruebas/obj/Debug/netcoreapp3.1/Pruebas.csprojAssemblyReference.cache
+/home/beny/Documents/SystemUSA/Pruebas/obj/Debug/netcoreapp3.1/Pruebas.AssemblyInfoInputs.cache
+/home/beny/Documents/SystemUSA/Pruebas/obj/Debug/netcoreapp3.1/Pruebas.AssemblyInfo.cs
+/home/beny/Documents/SystemUSA/Pruebas/obj/Debug/netcoreapp3.1/Pruebas.dll
+/home/beny/Documents/SystemUSA/Pruebas/obj/Debug/netcoreapp3.1/Pruebas.pdb
+/home/beny/Documents/SystemUSA/Pruebas/obj/Debug/netcoreapp3.1/Pruebas.csproj.CoreCompileInputs.cache
+/home/beny/Documents/SystemUSA/Pruebas/obj/Debug/netcoreapp3.1/Pruebas.genruntimeconfig.cache

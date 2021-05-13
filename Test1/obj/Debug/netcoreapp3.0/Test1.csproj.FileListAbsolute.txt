@@ -1,0 +1,13 @@
+/home/beny/Documents/SystemUSA/Test1/bin/Debug/netcoreapp3.0/Test1
+/home/beny/Documents/SystemUSA/Test1/bin/Debug/netcoreapp3.0/Test1.deps.json
+/home/beny/Documents/SystemUSA/Test1/bin/Debug/netcoreapp3.0/Test1.runtimeconfig.json
+/home/beny/Documents/SystemUSA/Test1/bin/Debug/netcoreapp3.0/Test1.runtimeconfig.dev.json
+/home/beny/Documents/SystemUSA/Test1/bin/Debug/netcoreapp3.0/Test1.dll
+/home/beny/Documents/SystemUSA/Test1/bin/Debug/netcoreapp3.0/Test1.pdb
+/home/beny/Documents/SystemUSA/Test1/obj/Debug/netcoreapp3.0/Test1.csprojAssemblyReference.cache
+/home/beny/Documents/SystemUSA/Test1/obj/Debug/netcoreapp3.0/Test1.AssemblyInfoInputs.cache
+/home/beny/Documents/SystemUSA/Test1/obj/Debug/netcoreapp3.0/Test1.AssemblyInfo.cs
+/home/beny/Documents/SystemUSA/Test1/obj/Debug/netcoreapp3.0/Test1.dll
+/home/beny/Documents/SystemUSA/Test1/obj/Debug/netcoreapp3.0/Test1.pdb
+/home/beny/Documents/SystemUSA/Test1/obj/Debug/netcoreapp3.0/Test1.csproj.CoreCompileInputs.cache
+/home/beny/Documents/SystemUSA/Test1/obj/Debug/netcoreapp3.0/Test1.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+/home/beny/Documents/SystemUSA/CojProj/bin/Debug/netcoreapp3.0/CojProj
+/home/beny/Documents/SystemUSA/CojProj/bin/Debug/netcoreapp3.0/CojProj.deps.json
+/home/beny/Documents/SystemUSA/CojProj/bin/Debug/netcoreapp3.0/CojProj.runtimeconfig.json
+/home/beny/Documents/SystemUSA/CojProj/bin/Debug/netcoreapp3.0/CojProj.runtimeconfig.dev.json
+/home/beny/Documents/SystemUSA/CojProj/bin/Debug/netcoreapp3.0/CojProj.dll
+/home/beny/Documents/SystemUSA/CojProj/bin/Debug/netcoreapp3.0/CojProj.pdb
+/home/beny/Documents/SystemUSA/CojProj/obj/Debug/netcoreapp3.0/CojProj.csprojAssemblyReference.cache
+/home/beny/Documents/SystemUSA/CojProj/obj/Debug/netcoreapp3.0/CojProj.AssemblyInfoInputs.cache
+/home/beny/Documents/SystemUSA/CojProj/obj/Debug/netcoreapp3.0/CojProj.AssemblyInfo.cs
+/home/beny/Documents/SystemUSA/CojProj/obj/Debug/netcoreapp3.0/CojProj.dll
+/home/beny/Documents/SystemUSA/CojProj/obj/Debug/netcoreapp3.0/CojProj.pdb
