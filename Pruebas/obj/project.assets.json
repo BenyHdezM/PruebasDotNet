@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/home/beny/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/home/benyhdez/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/beny/Documents/SystemUSA/Pruebas/Pruebas.csproj",
+      "projectUniqueName": "/home/benyhdez/Documents/PruebasDotNet/Pruebas/Pruebas.csproj",
       "projectName": "Pruebas",
-      "projectPath": "/home/beny/Documents/SystemUSA/Pruebas/Pruebas.csproj",
-      "packagesPath": "/home/beny/.nuget/packages/",
-      "outputPath": "/home/beny/Documents/SystemUSA/Pruebas/obj/",
+      "projectPath": "/home/benyhdez/Documents/PruebasDotNet/Pruebas/Pruebas.csproj",
+      "packagesPath": "/home/benyhdez/.nuget/packages/",
+      "outputPath": "/home/benyhdez/Documents/PruebasDotNet/Pruebas/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/home/beny/.nuget/NuGet/NuGet.Config"
+        "/home/benyhdez/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -34,6 +30,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -45,6 +42,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -55,12 +53,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[3.1.24, 3.1.24]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.104/RuntimeIdentifierGraph.json"
       }
     }
   }

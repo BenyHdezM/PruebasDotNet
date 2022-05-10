@@ -8,10 +8,20 @@ namespace Pruebas
     {
         static void Main(string[] args)
         {
+            string palabra = "Seattle, WA";
+            // palabra  += "  a";
+            //var output = palabra.ToCharArray();
+            palabra = palabra.PadRight(16, '.');
+            Console.WriteLine(palabra);
+            
             // String word = "the sky is blue";
             // var output = word.Split(' ').Reverse();
             // Console.WriteLine(String.Join(' ' , output));
-            // int[] arr = new int[] { 4, 1, 8, 2, 6, 7, 5, 9, 3 };
+            int[] arr = new int[] { 4, 1, 8, 2, 6, 7, 5, 9, 3 };
+            quickSortArray(arr);
+            foreach(int i in arr){
+                Console.WriteLine(i);
+            }
             // arr = arr.OrderBy(x => x).ToArray();
             // arr = arraySortLoop(arr, arr.Length);
             // Array.Sort(arr);
@@ -22,8 +32,8 @@ namespace Pruebas
             //Console.WriteLine(String.Join(",", arr));
             // Console.WriteLine(fibonacci(8));
             // Console.WriteLine(reverseWordsGeneric("The Sky is blue"));
-            TestStatic obj1 = new TestStatic();
-            obj1.Graba();
+            // TestStatic obj1 = new TestStatic();
+            // obj1.Graba();
             
         }
 
@@ -31,6 +41,33 @@ namespace Pruebas
         {
             if (n < 2) return n;
             return fibonacci(n - 1) + fibonacci(n - 2);
+        }
+
+        static void quickSortArray(int[] arr){
+            quickSort(arr,0,arr.Length-1);
+        } 
+        static void quickSort(int[] arr, int left,int right){
+            int i = left;
+            int j = right;
+            var pivot = arr[(left+right) / 2];
+
+            while( i<=j){
+                while(arr[i] < pivot)
+                    i++;
+                while(arr[j] > pivot)
+                    j--;
+                if(i<=j){
+                    var temp = arr[i];
+                    arr[i] = arr[j];
+                    arr[j] = temp;
+                    i++;
+                    j--;
+                }
+            }
+            if (left < j)
+                quickSort(arr, left, j);
+            if (i < right)
+                quickSort(arr, i, right);
         }
 
         static int[] arraySortLoop(int[] arr, int Length)
