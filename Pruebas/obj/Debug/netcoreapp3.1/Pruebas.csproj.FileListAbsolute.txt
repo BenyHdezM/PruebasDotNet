@@ -23,7 +23,6 @@
 /home/beny/Documents/PruebasDotNet/Pruebas/obj/Debug/netcoreapp3.1/Pruebas.dll
 /home/beny/Documents/PruebasDotNet/Pruebas/obj/Debug/netcoreapp3.1/Pruebas.pdb
 /home/beny/Documents/PruebasDotNet/Pruebas/obj/Debug/netcoreapp3.1/Pruebas.genruntimeconfig.cache
-/home/beny/Documents/PruebasDotNet/Pruebas/obj/Debug/netcoreapp3.1/Pruebas.csprojAssemblyReference.cache
 /home/benyhdez/Documents/PruebasDotNet/Pruebas/bin/Debug/netcoreapp3.1/Pruebas
 /home/benyhdez/Documents/PruebasDotNet/Pruebas/bin/Debug/netcoreapp3.1/Pruebas.deps.json
 /home/benyhdez/Documents/PruebasDotNet/Pruebas/bin/Debug/netcoreapp3.1/Pruebas.runtimeconfig.json
@@ -38,3 +37,5 @@
 /home/benyhdez/Documents/PruebasDotNet/Pruebas/obj/Debug/netcoreapp3.1/Pruebas.dll
 /home/benyhdez/Documents/PruebasDotNet/Pruebas/obj/Debug/netcoreapp3.1/Pruebas.pdb
 /home/benyhdez/Documents/PruebasDotNet/Pruebas/obj/Debug/netcoreapp3.1/Pruebas.genruntimeconfig.cache
+/home/beny/Documents/PruebasDotNet/Pruebas/obj/Debug/netcoreapp3.1/Pruebas.csproj.AssemblyReference.cache
+/home/beny/Documents/PruebasDotNet/Pruebas/obj/Debug/netcoreapp3.1/Pruebas.GeneratedMSBuildEditorConfig.editorconfig

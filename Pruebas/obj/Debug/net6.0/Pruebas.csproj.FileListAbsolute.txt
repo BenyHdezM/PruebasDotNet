@@ -1,0 +1,15 @@
+/home/beny/Documents/PruebasDotNet/Pruebas/bin/Debug/net6.0/Pruebas
+/home/beny/Documents/PruebasDotNet/Pruebas/bin/Debug/net6.0/Pruebas.deps.json
+/home/beny/Documents/PruebasDotNet/Pruebas/bin/Debug/net6.0/Pruebas.runtimeconfig.json
+/home/beny/Documents/PruebasDotNet/Pruebas/bin/Debug/net6.0/Pruebas.dll
+/home/beny/Documents/PruebasDotNet/Pruebas/bin/Debug/net6.0/Pruebas.pdb
+/home/beny/Documents/PruebasDotNet/Pruebas/obj/Debug/net6.0/Pruebas.csproj.AssemblyReference.cache
+/home/beny/Documents/PruebasDotNet/Pruebas/obj/Debug/net6.0/Pruebas.GeneratedMSBuildEditorConfig.editorconfig
+/home/beny/Documents/PruebasDotNet/Pruebas/obj/Debug/net6.0/Pruebas.AssemblyInfoInputs.cache
+/home/beny/Documents/PruebasDotNet/Pruebas/obj/Debug/net6.0/Pruebas.AssemblyInfo.cs
+/home/beny/Documents/PruebasDotNet/Pruebas/obj/Debug/net6.0/Pruebas.csproj.CoreCompileInputs.cache
+/home/beny/Documents/PruebasDotNet/Pruebas/obj/Debug/net6.0/Pruebas.dll
+/home/beny/Documents/PruebasDotNet/Pruebas/obj/Debug/net6.0/Pruebas.pdb
+/home/beny/Documents/PruebasDotNet/Pruebas/obj/Debug/net6.0/Pruebas.genruntimeconfig.cache
+/home/beny/Documents/PruebasDotNet/Pruebas/obj/Debug/net6.0/ref/Pruebas.dll
+/home/beny/Documents/PruebasDotNet/Pruebas/bin/Debug/net6.0/ref/Pruebas.dll

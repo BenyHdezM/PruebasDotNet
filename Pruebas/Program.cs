@@ -8,20 +8,21 @@ namespace Pruebas
     {
         static void Main(string[] args)
         {
-            string palabra = "Seattle, WA";
+            string palabra = "Hello123";
+            sumString(palabra);
             // palabra  += "  a";
             //var output = palabra.ToCharArray();
-            palabra = palabra.PadRight(16, '.');
-            Console.WriteLine(palabra);
+            //palabra = palabra.PadRight(16, '.');
+            //Console.WriteLine(palabra);
             
             // String word = "the sky is blue";
             // var output = word.Split(' ').Reverse();
             // Console.WriteLine(String.Join(' ' , output));
-            int[] arr = new int[] { 4, 1, 8, 2, 6, 7, 5, 9, 3 };
-            quickSortArray(arr);
-            foreach(int i in arr){
-                Console.WriteLine(i);
-            }
+            //int[] arr = new int[] { 4, 1, 8, 2, 6, 7, 5, 9, 3 };
+            //quickSortArray(arr);
+            // foreach(int i in arr){
+            //     Console.WriteLine(i);
+            // }
             // arr = arr.OrderBy(x => x).ToArray();
             // arr = arraySortLoop(arr, arr.Length);
             // Array.Sort(arr);
@@ -37,6 +38,18 @@ namespace Pruebas
             
         }
 
+        static void sumString(string str){
+            int resultado = 0; 
+            foreach(char c in str){
+                if(Char.GetNumericValue(c) < 0){
+                    resultado += Convert.ToInt32((int)char.ToLower(c) - 96);
+                }else{
+                    resultado += Convert.ToInt32(Char.GetNumericValue(c));
+                }
+            }
+            Console.WriteLine(resultado);
+        }
+
         static int fibonacci(int n)
         {
             if (n < 2) return n;
@@ -46,6 +59,7 @@ namespace Pruebas
         static void quickSortArray(int[] arr){
             quickSort(arr,0,arr.Length-1);
         } 
+        
         static void quickSort(int[] arr, int left,int right){
             int i = left;
             int j = right;

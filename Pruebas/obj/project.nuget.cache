@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a2ZqR1tuK+GohFyvr+QyuEqF9fbZADsdOl8j+k3nFbX56qvoqcxFSg3ef+SdNbBKaDzE6MsdzSRS70i2Zsrq3Q==",
+  "dgSpecHash": "t+x2y15+TGXWeO3Avdict88YTByS+NSDcNuJjnXwS7sE7s5eyYpnA4aeDb4bn8L4TS32qcZmxK5EKij2Q6wXaw==",
   "success": true,
-  "projectFilePath": "/home/benyhdez/Documents/PruebasDotNet/Pruebas/Pruebas.csproj",
-  "expectedPackageFiles": [
-    "/home/benyhdez/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.24/microsoft.netcore.app.host.linux-x64.3.1.24.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/beny/Documents/PruebasDotNet/Pruebas/Pruebas.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

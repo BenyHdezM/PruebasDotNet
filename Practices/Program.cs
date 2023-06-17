@@ -85,6 +85,7 @@ namespace Practices
             if (str == str2) return true;
             return false;
         }
+
         static List<Array> chunk(int[] arr, int size)
         {
             List<Array> ouput = new List<Array>();
@@ -172,8 +173,8 @@ namespace Practices
             {
                 Console.WriteLine(key.Key + ": " + key.Value);
             }
-
         }
+
         static void reverseInt(int n)
         {
             var input = n.ToString().ToCharArray();

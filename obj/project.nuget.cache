@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "SjPsZqLOfqs7JvAYQYu54/jBXimkUTacqkC03k3TPEet26IklVoTB9TCLRzDc//ZiIvPhErMbWGX8azw658gFg==",
+  "success": false,
+  "projectFilePath": "/home/beny/Documents/PruebasDotNet/PruebasDotNet.csproj",
+  "expectedPackageFiles": [
+    "/home/beny/.nuget/packages/microsoft.netcore.app.ref/7.0.4/microsoft.netcore.app.ref.7.0.4.nupkg.sha512",
+    "/home/beny/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.4/microsoft.aspnetcore.app.ref.7.0.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Host.fedora.38-x64. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "Microsoft.NETCore.App.Host.fedora.38-x64",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
